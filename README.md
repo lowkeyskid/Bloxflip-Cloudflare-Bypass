@@ -3,6 +3,6 @@ A less common approach to bloxflips entry-level cloudflare protection
 
 # TODO
 - post socket support
-- post socket params
+- get/post socket params
 
 # lowkeyskid wuz here
